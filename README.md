@@ -12,9 +12,15 @@
 #### E-Learning:
 [Samlat innehåll för hela kursen](https://github.com/Lexicon-frontend-2024-2025/e-learning)
 #### Utvalda för denna veckan:
+* [Flex och Grid](https://app.pluralsight.com/ilx/video-courses/8931e14f-58e5-4a59-b8c1-d8d1ddfd3ba8/d2a4ec94-25d5-477c-8236-9060e8a41486/b01972be-21c7-4258-ab7b-fdfac3d0414b)
+* [Modern weblayout med FLexbox och Grid](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
+#### Youtube
+* [Layouts med subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
+* [Flex eller Grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
+
 #### Läsning
 ## Övningar
-
+* [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
 ## Slides
 
 ## Lektioner
