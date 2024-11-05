@@ -25,6 +25,10 @@
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
 * [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 ## Slides
+* [Flexbox - grunder](https://docs.google.com/presentation/d/1GGCqaeKRbkBI1ttC4JbrJ3pZbVvVhauoaF80y8cBcNo/edit#slide=id.p)
+* [CSS Grid](https://docs.google.com/presentation/d/1vOdVU6YQWUyq7rj5NFB62S79ykGhbVmfMCvInlNKYjk/edit?usp=sharing)
+* [CSS Grid - mindset](https://docs.google.com/presentation/d/1_iqlm9H0zRiL1A2oNGdMYvm5U5JCnpbfHvxlVyBdMAQ/edit#slide=id.p)
+* [Animationer](https://docs.google.com/presentation/d/19qlmDJhL6S3-2WsSdYMHUuMPP2ZEIxp1PGsaPmkh1Vc/edit#slide=id.g28d310b6447_0_0)
 
 ## Lektioner
 ##### Med tillhörande repon
