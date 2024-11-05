@@ -19,6 +19,8 @@
 * [Flex eller Grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
 
 #### Läsning
+* [CSS tricks, Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [CSS tricks, CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 ## Övningar
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
 ## Slides
