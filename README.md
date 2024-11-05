@@ -15,14 +15,12 @@
 #### Läsning
 ## Övningar
 
-
 ## Slides
-
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag]()** - 
-* **[Tisdag]()** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag.
-* **[Onsdag]()** - 
+* **[Måndag]()** - Introduktion till CSS Flexbox.
+* **[Tisdag]()** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag. Fortsättning i Flexbox.
+* **[Onsdag]()** - Introduktion till CSS Grid.
 * **[Torsdag]()** - 
 * **[Fredag]()** - 
