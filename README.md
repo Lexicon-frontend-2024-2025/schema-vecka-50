@@ -23,12 +23,13 @@
 * [CSS tricks, CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 ## Övningar
 * [Flexbox Bootcamp](https://github.com/Lexicon-frontend-2024-2025/flexbox-bootcamp/)
+* [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop)
 ## Slides
 
 ## Lektioner
 ##### Med tillhörande repon
 * **[Måndag]()** - Introduktion till CSS Flexbox.
-* **[Tisdag]()** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag. Fortsättning i Flexbox. Börja med [Poster Shop]() i Flexbox, deadline torsdag.
+* **[Tisdag]()** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag. Fortsättning i Flexbox. Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 * **[Onsdag]()** - Introduktion till CSS Grid.
-* **[Torsdag]()** - Fortsättning CSS Grid. Börja med [Poster Shop]() i CSS grid, deadline på tisdag.
-* **[Fredag]()** - Code review på [Poster Shop](), både i flexbox och css grid. Lektion på Flex vs Grid.
+* **[Torsdag]()** - Fortsättning CSS Grid. Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i CSS grid, deadline på tisdag.
+* **[Fredag]()** - Code review på [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop), både i flexbox och css grid. Lektion på Flex vs Grid.
