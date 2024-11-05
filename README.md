@@ -4,7 +4,7 @@
 ###### HTML/CSS, vecka 3 av 6
 
 ## Mål för veckan
-1.Förståelse för fluid design.
+1. Förståelse för fluid design.
 2. Kunna använda Flexbox för att positionera element.
 3. Kunna använda CSS Grid för att positionera element.
 
