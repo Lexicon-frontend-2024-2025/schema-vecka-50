@@ -10,12 +10,11 @@
 
 ## Material
 #### Utvalda för denna veckan:
-* [Flex och Grid](https://app.pluralsight.com/ilx/video-courses/8931e14f-58e5-4a59-b8c1-d8d1ddfd3ba8/d2a4ec94-25d5-477c-8236-9060e8a41486/b01972be-21c7-4258-ab7b-fdfac3d0414b)
+* [Creating layouts with CSS](https://app.pluralsight.com/library/courses/css-creating-layouts/table-of-contents)
 * [Modern weblayout med Flexbox och Grid](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
 #### Youtube
 * [Layouts med subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
 * [Flex eller Grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
-
 #### Läsning
 * [CSS tricks, Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS tricks, CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
@@ -26,7 +25,6 @@
 * [Flexbox - grunder](https://docs.google.com/presentation/d/1GGCqaeKRbkBI1ttC4JbrJ3pZbVvVhauoaF80y8cBcNo/edit#slide=id.p)
 * [CSS Grid](https://docs.google.com/presentation/d/1vOdVU6YQWUyq7rj5NFB62S79ykGhbVmfMCvInlNKYjk/edit?usp=sharing)
 * [CSS Grid - mindset](https://docs.google.com/presentation/d/1_iqlm9H0zRiL1A2oNGdMYvm5U5JCnpbfHvxlVyBdMAQ/edit#slide=id.p)
-* [Animationer](https://docs.google.com/presentation/d/19qlmDJhL6S3-2WsSdYMHUuMPP2ZEIxp1PGsaPmkh1Vc/edit#slide=id.g28d310b6447_0_0)
 
 ## Lektioner
 ##### Med tillhörande repon
