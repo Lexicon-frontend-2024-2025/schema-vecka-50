@@ -13,8 +13,13 @@
 * [Creating layouts with CSS](https://app.pluralsight.com/library/courses/css-creating-layouts/table-of-contents)
 * [Modern weblayout med Flexbox och Grid](https://app.pluralsight.com/library/courses/modern-web-layout-flexbox-css-grid/table-of-contents)
 #### Youtube
+* [Flex eller Grid?](https://www.youtube.com/watch?v=3elGSZSWTbM)
+* [Learn flexbox the easy way](https://www.youtube.com/watch?v=u044iM9xsWU)
+* [Learn CSS grid the easy way](https://www.youtube.com/watch?v=rg7Fvvl3taU)
+* [Get started with Grid](https://www.youtube.com/watch?v=_lEkD8IGkwo)
 * [Layouts med subgrid](https://www.youtube.com/watch?v=IIQa9f0REtM)
-* [Flex eller Grid](https://www.youtube.com/watch?v=3elGSZSWTbM)
+* Extra - [Avancerad användning av sub-grid](https://www.youtube.com/watch?v=UwV4LtO0nHo)
+* Extra - [Alla grid-videos av Kevin Powell](https://www.youtube.com/watch?v=_lEkD8IGkwo&list=PL4-IK0AVhVjPv5tfS82UF_iQgFp4Bl998&index=1)
 #### Läsning
 * [CSS tricks, Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [CSS tricks, CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
