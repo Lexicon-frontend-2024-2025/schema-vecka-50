@@ -35,6 +35,6 @@
 ##### Med tillhörande repon
 * **[Måndag](https://github.com/Lexicon-frontend-2024-2025/lecture-9-dec)** - Introduktion till CSS Flexbox.
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-10-dec)** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag. Fortsättning i Flexbox. Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
-* **[Onsdag]()** - Introduktion till CSS Grid.
+* **[Onsdag](https://github.com/Lexicon-frontend-2024-2025/lecture-11-dec)** - Introduktion till CSS Grid.
 * **[Torsdag]()** - Liten session om studieteknik kl 10. Resten av dagen; eget arbete.
 * **[Fredag]()** - Eget arbete - inget schemalagt. 
