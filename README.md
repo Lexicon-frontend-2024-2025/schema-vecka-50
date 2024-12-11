@@ -37,4 +37,4 @@
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lecture-10-dec)** - Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline på [Animation Bootcamp](https://github.com/Lexicon-frontend-2024-2025/animation-bootcamp). Lärare visar lösningsförslag. Fortsättning i Flexbox. Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i Flexbox, deadline torsdag.
 * **[Onsdag]()** - Introduktion till CSS Grid.
 * **[Torsdag]()** - Fortsättning CSS Grid samt subgrid. Börja med [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop) i CSS grid, deadline på tisdag.
-* **[Fredag]()** - Code review på [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop), både i flexbox och css grid. Lektion på Flex vs Grid.
+* **[Fredag]()** - Code review på [Poster Shop](https://github.com/Lexicon-frontend-2024-2025/poster-shop), både i flexbox och css grid (eller bara den ena - välj den version som ni vill visa och ha input på).
